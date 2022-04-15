@@ -81,6 +81,12 @@ body {
   align-items: center;
 }
 
+.resume .resume_left ul a {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
 .resume .resume_left ul li:last-child {
   margin-bottom: 0;
 }
@@ -109,7 +115,7 @@ body {
   font-size: 13px;
 }
 
-.resume .resume_left ul li .data a {
+.resume .resume_left ul a {
     text-decoration: none;
     color: #b1eaff;
 }
@@ -264,4 +270,3 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
-
