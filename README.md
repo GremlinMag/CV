@@ -1,3 +1,3 @@
 # CV
 ### Description
-My first CV based in HTML + CSS
+My first CV created by HTML, CSS
