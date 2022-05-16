@@ -1,3 +1,7 @@
 # CV
-### Description
-My first CV created by HTML, CSS
+Here you can see CV: https://gremlinmag.github.io/CV/
+
+### Technologies used:
+- HTML
+- CSS
+- https://fontawesome.com/
